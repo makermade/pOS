@@ -1,8 +1,11 @@
+.classpath
+.project
 .config
 .repo/
 Makefile
 abi/
 art/
+bin/
 bionic/
 bootable/
 build/
